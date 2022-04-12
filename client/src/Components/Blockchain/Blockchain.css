@@ -1,0 +1,6 @@
+.blockchain__container{
+    display: flex;
+    justify-content: left;
+    width: 100vw;
+    margin: 10px;
+}
